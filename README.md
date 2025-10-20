@@ -4,4 +4,4 @@ My name is Abhishek [@planksconstant](https://github.com/planksconstant). I am c
 
 I like math and also I enjoy working out and going to the Gym.
 
-[<img src="image.png" alt="LinkedIn" width="16"> LinkedIn](https://www.linkedin.com/in/abhishek-d-5b0588262/)
+[<img src="image.png" alt="LinkedIn" width="20"> LinkedIn](https://www.linkedin.com/in/abhishek-d-5b0588262/)
