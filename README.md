@@ -4,4 +4,9 @@ My name is Abhishek [@planksconstant](https://github.com/planksconstant). I am c
 
 I also enjoy working out and going to the Gym.
 
-[<img src="image.png" alt="LinkedIn" width="20"> LinkedIn](https://www.linkedin.com/in/abhishek-d-5b0588262/)
+<h3 align="left">Connect with me</h3>
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekdharanisha@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-d-5b0588262/)
+
+
+
