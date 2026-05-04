@@ -1,13 +1,11 @@
-## std::cout << "Hello World ";
+## std::cout << "Hello World";
 
-My name is Abhishek [@planksconstant](https://github.com/planksconstant). I am currently a first-year student at PES University. My interests are FOSS and competitive programming and Math. I am currently learning C++ and figuring out how to work with large codebases.
+My name is Abhishek [@planksconstant](https://github.com/planksconstant). First-year student at PES University.
+
+Interested in Low-Level programing Systems Design and Competitive Programing
 
 
-I also enjoy working out and going to the Gym.
-
-PS-Working on some really cool projects,
-
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Contact</h3>
 
 <p align="left">
 <a href="mailto:abhishekdharanisha@gmail.com">
