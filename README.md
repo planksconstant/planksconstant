@@ -1,6 +1,6 @@
 ## std::cout << "Hello World";
 
-My name is Abhishek [@planksconstant](https://github.com/planksconstant). First-year student at PES University.
+My name is Abhishek [@planksconstant](https://github.com/planksconstant). Second-year student at PES University.
 
 Interested in Low-Level programing, Systems Design,Compiler design and Competitive Programing
 
